@@ -9,4 +9,13 @@
 **this is bold**
 `code this is code wow`
 
----SDSAD
+---
+
+
+check change
+
+
+
+ -[x] Write the press release
+ -[ ] update the wepsite
+ -[ ] contact the media
