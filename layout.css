@@ -34,17 +34,17 @@ header {
 
   grid-area: header;
 }
-
+/* 
 main {
   background-color: #f5a623;
 
-}
+} */
 
 aside {
   background-color: #b8e986;
   padding: 1em;
 
-  grid-area: aside;
+
 }
 
 footer {
@@ -52,7 +52,7 @@ footer {
   padding: 1em;
   color: white;
 
-  grid-area: footer;
+ 
 }
 
 section {
